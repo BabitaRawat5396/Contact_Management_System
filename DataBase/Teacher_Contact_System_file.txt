@@ -1,0 +1,10 @@
+220211,0,Sanjay,Sharma,28,M,9/7/1990,Bareilly,sanjay@gmail.com,1286608627
+200122,0,Subit,Jain,37,M,1/1/1985,jeuus,subit.kumar@gmail.com,1301053306
+200121,0,Subit,Jain,37,M,1/1/1985,shhbs wsxhbwd ,subit.kumar@gmail.com,1301053306
+220901,1,Sanjay,Sharma,28,M,9/7/1990,Bareilly,sanjay@gmail.com,1286119729
+220401,0,Nisha,Gangwar,27,F,1/1/1990,htefs sbby,Nisha@gmail.com,1286608618
+220101,1,Shilpa,Kumari,22,M,3/7/2001,hello Bareilly,krishna@gmail.com,437839484
+220202,1,Jitendra,Kumar,22,M,3/7/2001,Bareilly,jitendra@gmail.com,437839484
+220303,1,Jitendra,Kumar,22,M,3/7/2001,India,hello@gmail.com,1286608618
+220404,1,Lappy,Mouse,22,M,3/7/2001,Mumbai south,Mouse@gmail.com,1286608618
+160801,1,Sanjay,Sharma,28,M,3/8/1995,Mumbai,Sanjay@gmail.com,1286608618

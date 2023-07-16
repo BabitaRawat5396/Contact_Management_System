@@ -1,0 +1,10 @@
+220901,Luke,Dunphy,11,9,M,1/1/2010,123-C California,Claire Dunphy,Phil Dunphy,Phil@gmail.com,1234567890
+220902,Manny,Prichet,12,9,F,12/11/2010,12-B California,Gloria Prichet,Jay Prichet,Jay@gmail.com,6765678765
+220903,Kate,West,14,10,F,11/9/2008,10932 Bigge Rd. CA,Green West,Carson West,Carson@gmail.com,5676545676
+221002,Hema,Rawat,14,10,F,1/1/2008,93-a b-block delhi,Preeti Rawat,Sandeep Rawat,Sandeep@gmail.com,9889098789
+221211,Geeta,Kumari,14,10,F,1/1/2008,76-A B-block delhi,Kavita Kumari,Anand Kumar,Father@gmail.com,9878088987
+221010,Jitendra,Kumar,15,10,M,9/10/2000,Bareilly,Mata JI,Pita Ji,PitaJi@gmail.com,9876543210
+221011,Jitu,Kumar,20,12,M,3/7/2001,bareiily,Mata,Pita,Pita@gmail.com,9876543210
+220101,Babita,rawat,12,0,F,1/1/2017,babuta rawat,gemol hema,what uis uo,hello@gmail.com,1234567890
+200801,Rajesh,kumar,22,9,M,1/1/2000,Bareilly Uttar Pradesh,Mothers,Jitendra,father@gmail.com,9827635638
+221299,Asus,Zenbook,18,12,M,3/7/2001,Himachal,Hello,Teachet,helo@gmail.com,1982763410
